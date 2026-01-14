@@ -42,12 +42,6 @@ I'm a Frontend Developer and UI/UX Designer focused on creating **clean, respons
 - **Build Tools**: Vite
 - **Others**: ID system handling, Basic photo editing and asset optimization
 
-## 📊 GitHub Stats
-
-![Merwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Merwinzkiee&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Merwinzkiee&layout=compact&theme=radical)
-
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://merwin-sevidal-portfolio.vercel.app)
