@@ -61,13 +61,6 @@
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-<p align="center"><sub><b>BACKEND I WORK ALONGSIDE</b></sub><br/>
-  <img src="https://img.shields.io/badge/Hono-0d1117?style=for-the-badge&logo=hono&logoColor=E36002" alt="Hono" />
-  <img src="https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-</p>
-
 </details>
 
 <details>
