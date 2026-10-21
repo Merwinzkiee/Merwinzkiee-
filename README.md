@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="merwinzkiee · UI UX Developer · React 19, Vite, Tailwind CSS 4, shadcn/ui, TanStack Query, Zustand, Three.js" />
+  <img src="./hero.svg" alt="merwinzkiee · UI UX Developer · React 19, Vite, Tailwind CSS 4, shadcn/ui, TanStack Query, Zustand, Three.js" />
 </p>
 
 <p align="center"><b>merwinzkiee</b> · UI UX Developer<br/><sub>Where design meets development and ideas turn into interfaces.</sub></p>
