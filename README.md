@@ -96,4 +96,4 @@
 
 </details>
 
-<p align="center"><sub>merwinzkiee · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>v
+<p align="center"><sub>merwinzkiee · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
