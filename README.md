@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=merwinzkiee&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F129511383%3Fu%3Dcade477ef9cfac66b85fdfb91789f1dc78acd511%26v%3D4" alt="merwinzkiee hero visual" />
+  <img src="./assets/hero.svg" alt="merwinzkiee · UI UX Developer · React 19, Vite, Tailwind CSS 4, shadcn/ui, TanStack Query, Zustand, Three.js" />
 </p>
 
 <p align="center"><b>merwinzkiee</b> · UI UX Developer<br/><sub>Where design meets development and ideas turn into interfaces.</sub></p>
@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
+
 </details>
 
 <details>
@@ -95,4 +96,4 @@
 
 </details>
 
-<p align="center"><sub>merwinzkiee · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>merwinzkiee · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>v
